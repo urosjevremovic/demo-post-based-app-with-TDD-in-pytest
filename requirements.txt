@@ -1,0 +1,5 @@
+mixer==6.0.1
+mock==2.0.0
+pytest==3.6.3
+stripe==2.0.1
+Django==2.0.7
