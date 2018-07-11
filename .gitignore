@@ -10,3 +10,4 @@ __pycache__/
 *.coverage
 *.coveragerc
 *.pytest_cache/
+htmlcov/
